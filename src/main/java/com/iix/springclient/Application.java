@@ -1,4 +1,4 @@
-package com.programmer.gate;
+package com.iix.springclient;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
